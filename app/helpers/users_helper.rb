@@ -5,4 +5,3 @@ module UsersHelper
     "https://secure.gravatar.com/avatar/#{gravatar_id}?s=#{size}"
   end
 end
-
