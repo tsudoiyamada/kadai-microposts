@@ -51,6 +51,6 @@ production:
   adapter: postgresql
   encoding: unicode
   pool: 5
-  database: kadai-tasklist_production
-  username: kadai-tasklist
+  database: kadai-microposts_production
+  username: kadai-microposts
   password: <%= ENV['MICROPOSTS_DATABASE_PASSWORD'] %>
